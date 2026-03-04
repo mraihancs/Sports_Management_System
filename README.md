@@ -26,4 +26,5 @@ Styling: Custom CSS3 for advanced animations
 Watch the full UI walkthrough and responsiveness test here:
 
 Watch Hocky Demo on [YouTube](https://youtu.be/plnpMieZzO0?si=Dh1mGv7Gf5mgpCoV)
+
 Live: https://mraihancs.github.io/Sports_Management_System/
